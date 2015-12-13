@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<trades>
+	<trade id="1">
+		<stock>TEA</stock>
+		<tradeIndicator>SELL</tradeIndicator>
+		<sharesQuantity>55</sharesQuantity>
+		<tradedPrice>8.12</tradedPrice>
+	</trade>	
+	<trade id="2">	
+		<stock>POP</stock>
+		<tradeIndicator>BUY</tradeIndicator>
+		<sharesQuantity>42</sharesQuantity>
+		<tradedPrice>3.22</tradedPrice>
+	</trade>
+	<trade id="3">
+	
+		<stock>TEA</stock>
+		<tradeIndicator>BUY</tradeIndicator>
+		<sharesQuantity>122</sharesQuantity>
+		<tradedPrice>11.02</tradedPrice>
+	</trade>	
+	<trade id="4">
+		<stock>POP</stock>
+		<tradeIndicator>SELL</tradeIndicator>
+		<sharesQuantity>154</sharesQuantity>
+		<tradedPrice>2.62</tradedPrice>
+	</trade>	
+	<trade id="5">
+		<stock>ALE</stock>
+		<tradeIndicator>SELL</tradeIndicator>
+		<sharesQuantity>147</sharesQuantity>
+		<tradedPrice>15.14</tradedPrice>
+	</trade>	
+	<trade id="6">
+		<stock>GIN</stock>
+		<tradeIndicator>BUY</tradeIndicator>
+		<sharesQuantity>185</sharesQuantity>
+		<tradedPrice>6.99</tradedPrice>
+	</trade>
+	<trade id="7">
+		<stock>JOE</stock>
+		<tradeIndicator>BUY</tradeIndicator>
+		<sharesQuantity>50</sharesQuantity>
+		<tradedPrice>6.11</tradedPrice>
+	</trade>
+	<trade id="8">
+		<stock>ALE</stock>
+		<tradeIndicator>BUY</tradeIndicator>
+		<sharesQuantity>255</sharesQuantity>
+		<tradedPrice>4.01</tradedPrice>
+	</trade>
+	<trade id="9">
+		<stock>GIN</stock>
+		<tradeIndicator>SELL</tradeIndicator>
+		<sharesQuantity>32</sharesQuantity>
+		<tradedPrice>9.99</tradedPrice>
+	</trade>
+	<trade id="10">
+		<stock>JOE</stock>
+		<tradeIndicator>BUY</tradeIndicator>
+		<sharesQuantity>158</sharesQuantity>
+		<tradedPrice>14.22</tradedPrice>
+	</trade>	
+	<trade id="11">
+		<stock>TEA</stock>
+		<tradeIndicator>SELL</tradeIndicator>
+		<sharesQuantity>123</sharesQuantity>
+		<tradedPrice>20.29</tradedPrice>
+	</trade>
+	<trade id="12">
+		<stock>POP</stock>
+		<tradeIndicator>BUY</tradeIndicator>
+		<sharesQuantity>21</sharesQuantity>
+		<tradedPrice>0.94</tradedPrice>
+	</trade>
+	<trade id="13">
+		<stock>TEA</stock>
+		<tradeIndicator>BUY</tradeIndicator>
+		<sharesQuantity>199</sharesQuantity>
+		<tradedPrice>5.29</tradedPrice>
+	</trade>
+	<trade id="14">
+		<stock>POP</stock>
+		<tradeIndicator>SELL</tradeIndicator>
+		<sharesQuantity>22</sharesQuantity>
+		<tradedPrice>3.22</tradedPrice>
+	</trade>	
+	<trade id="15">
+		<stock>ALE</stock>
+		<tradeIndicator>SELL</tradeIndicator>
+		<sharesQuantity>100</sharesQuantity>
+		<tradedPrice>36.65</tradedPrice>
+	</trade>
+	<trade id="16">	
+		<stock>GIN</stock>
+		<tradeIndicator>BUY</tradeIndicator>
+		<sharesQuantity>250</sharesQuantity>
+		<tradedPrice>1.58</tradedPrice>
+	</trade>
+	<trade id="17">
+		<stock>JOE</stock>
+		<tradeIndicator>BUY</tradeIndicator>
+		<sharesQuantity>25</sharesQuantity>
+		<tradedPrice>9.99</tradedPrice>
+	</trade>
+	<trade id="18">
+		<stock>ALE</stock>
+		<tradeIndicator>BUY</tradeIndicator>
+		<sharesQuantity>50</sharesQuantity>
+		<tradedPrice>12.29</tradedPrice>
+	</trade>	
+	<trade id="19">
+		<stock>GIN</stock>
+		<tradeIndicator>SELL</tradeIndicator>
+		<sharesQuantity>100</sharesQuantity>
+		<tradedPrice>15.99</tradedPrice>
+	</trade>
+	<trade id="20">
+		<stock>JOE</stock>
+		<tradeIndicator>BUY</tradeIndicator>
+		<sharesQuantity>150</sharesQuantity>
+		<tradedPrice>12.2</tradedPrice>
+	</trade>	
+</trades>

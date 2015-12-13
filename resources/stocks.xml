@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stocks>	
+	<stockSymbol id="TEA">
+		<stockType>COMMON</stockType>
+		<lastDividend>8</lastDividend>
+		<fixedDividend>0</fixedDividend>
+		<parValue>100</parValue>
+	</stockSymbol>
+		<stockSymbol id="POP">
+		<stockType>COMMON</stockType>
+		<lastDividend>8</lastDividend>
+		<fixedDividend>0</fixedDividend>
+		<parValue>100</parValue>
+	</stockSymbol>
+		<stockSymbol id="ALE">
+		<stockType>COMMON</stockType>
+		<lastDividend>23</lastDividend>
+		<fixedDividend>0</fixedDividend>
+		<parValue>60</parValue>
+	</stockSymbol>
+		<stockSymbol id="GIN">
+		<stockType>PREFERRED</stockType>
+		<lastDividend>8</lastDividend>
+		<fixedDividend>0.02</fixedDividend>
+		<parValue>100</parValue>
+	</stockSymbol>
+		<stockSymbol id="JOE">
+		<stockType>COMMON</stockType>
+		<lastDividend>13</lastDividend>
+		<fixedDividend>0</fixedDividend>
+		<parValue>250</parValue>
+	</stockSymbol>
+	
+</stocks>
