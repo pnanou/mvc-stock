@@ -82,7 +82,6 @@ public class StockTest {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-
 	}
 
 	/*
@@ -135,7 +134,6 @@ public class StockTest {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-
 	}
 
 	/*
@@ -158,7 +156,6 @@ public class StockTest {
 		}
 
 		logger.info("calculateDividendYieldTest is OK");
-
 	}
 
 	/*
@@ -237,7 +234,6 @@ public class StockTest {
 		tradeList.addAll(listOfTrades);
 		Assert.assertNotNull(tradeList);
 		logger.info("Trade List size: "+tradeList.size());
-
 
 		try{
 			int tradesNumber = view.getTrades().size();
