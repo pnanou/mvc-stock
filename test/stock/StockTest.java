@@ -229,7 +229,7 @@ public class StockTest {
 	public void recordATradeTest(){
 		logger.info("Starting recordATradeTest.");
 
-		// Recover the trades configured from the trades.xml
+		// Recover the trades values configured from the trades.xml
 		ArrayList<Trade> tradeList = new ArrayList<Trade>();
 		tradeList.addAll(listOfTrades);
 		Assert.assertNotNull(tradeList);
